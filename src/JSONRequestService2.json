@@ -1,0 +1,164 @@
+{
+  "data": [
+    {
+      "mes": "Agosto",
+      "fechaProceso": "2023-08-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "1231245",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "1235745",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Septiembre",
+      "fechaProceso": "2023-09-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "1213123",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "123131",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Octubre",
+      "fechaProceso": "2023-10-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "111111",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "222222",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Noviembre",
+      "fechaProceso": "2023-11-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "111111",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "222222",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Diciembre",
+      "fechaProceso": "2023-12-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "111111",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "222222",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Enero",
+      "fechaProceso": "2024-01-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "111111",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "222222",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Febrero",
+      "fechaProceso": "2024-02-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "111111",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "222222",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Marzo",
+      "fechaProceso": "2024-03-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "111111",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "222222",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Abril",
+      "fechaProceso": "2024-04-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "111111",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "222222",
+          "valor": 1800.75
+        }
+      ]
+    },
+    {
+      "mes": "Mayo",
+      "fechaProceso": "2024-05-19",
+      "rucEmpresa": "123456789",
+      "cuentaPrincipal": "987654321",
+      "empleadosPago": [
+        {
+          "numeroCuenta": "111111",
+          "valor": 2500.50
+        },
+        {
+          "numeroCuenta": "222222",
+          "valor": 1800.75
+        }
+      ]
+    }
+  ]
+}

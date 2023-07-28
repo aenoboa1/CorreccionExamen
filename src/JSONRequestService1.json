@@ -1,0 +1,80 @@
+{
+  "data": [
+    {
+      "ruc": "123456789",
+      "razonSocial": "The Boring Company",
+      "cuentaPrincipal": "1234567890123456",
+      "empleados": [
+        {
+          "cedulaDeIdentidad": "1705598264",
+          "apellidos": "Doe",
+          "nombres": "John",
+          "numeroDeCuenta": "111111"
+        },
+        {
+          "cedulaDeIdentidad": "1754299749",
+          "apellidos": "Noboa",
+          "nombres": "Andres",
+          "numeroDeCuenta": "222222"
+        }
+      ]
+    },
+    {
+      "ruc": "987654321",
+      "razonSocial": "Tech Solutions",
+      "cuentaPrincipal": "9876543210987654",
+      "empleados": [
+        {
+          "cedulaDeIdentidad": "1905543221",
+          "apellidos": "Smith",
+          "nombres": "Emily",
+          "numeroDeCuenta": "333333"
+        },
+        {
+          "cedulaDeIdentidad": "1744229800",
+          "apellidos": "Garcia",
+          "nombres": "Carlos",
+          "numeroDeCuenta": "444444"
+        }
+      ]
+    },
+    {
+      "ruc": "555555555",
+      "razonSocial": "Global Enterprises",
+      "cuentaPrincipal": "5555555555555555",
+      "empleados": [
+        {
+          "cedulaDeIdentidad": "2001122334",
+          "apellidos": "Lee",
+          "nombres": "Jenny",
+          "numeroDeCuenta": "555555"
+        },
+        {
+          "cedulaDeIdentidad": "2112233445",
+          "apellidos": "Wang",
+          "nombres": "David",
+          "numeroDeCuenta": "666666"
+        }
+      ]
+    },
+    {
+      "ruc": "777777777",
+      "razonSocial": "Innovative Solutions",
+      "cuentaPrincipal": "7777777777777777",
+      "empleados": [
+        {
+          "cedulaDeIdentidad": "1987654321",
+          "apellidos": "Kim",
+          "nombres": "Soo-Min",
+          "numeroDeCuenta": "777777"
+        },
+        {
+          "cedulaDeIdentidad": "2088888877",
+          "apellidos": "Hernandez",
+          "nombres": "Maria",
+          "numeroDeCuenta": "888888"
+        }
+      ]
+    }
+  ]
+}

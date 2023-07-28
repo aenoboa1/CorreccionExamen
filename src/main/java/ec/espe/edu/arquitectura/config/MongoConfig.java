@@ -1,4 +1,4 @@
-package ec.edu.espe.examen.config;
+package ec.espe.edu.arquitectura.config;
 
 import org.bson.types.Decimal128;
 import org.springframework.beans.factory.annotation.Value;

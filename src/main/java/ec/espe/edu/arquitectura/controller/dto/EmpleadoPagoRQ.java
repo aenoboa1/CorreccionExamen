@@ -1,15 +1,15 @@
-package ec.espe.edu.arquitectura.model;
+package ec.espe.edu.arquitectura.controller.dto;
 
 import lombok.Builder;
 import lombok.Data;
 
 import java.math.BigDecimal;
 
+
 @Data
 @Builder
-public class EmpleadoPago {
+public class EmpleadoPagoRQ {
     private String numeroCuenta;
     private BigDecimal valor;
-    private String estado;
 
 }

@@ -1,4 +1,4 @@
-package ec.edu.espe.examen.model;
+package ec.espe.edu.arquitectura.model;
 
 
 import lombok.Builder;
@@ -14,7 +14,6 @@ import java.util.List;
 @Document(collection = "pagoRol")
 @Builder
 public class PagoRol {
-
     @Id
     private String id;
     private String mes;

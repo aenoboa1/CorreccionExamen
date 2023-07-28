@@ -1,4 +1,4 @@
-package ec.edu.espe.examen.model;
+package ec.espe.edu.arquitectura.model;
 
 import lombok.Builder;
 import lombok.Data;
